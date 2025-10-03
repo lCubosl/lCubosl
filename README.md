@@ -5,7 +5,7 @@
 💻 I'm a Software Engineer/full-stack developer sharing my progress in tech<br />
 👨‍🎓 Masters in [Computer Engineering](https://www.ipleiria.pt/curso/mestrado-em-engenharia-informatica-computacao-movel/) at IPL-Polytechnic Institute of Leiria, Portugal<br />
 🛠️ My projects are a mix of personal projects, course projects and tutorials<br />
-💭 Currently learning Java<br />
+💭 Currently learning Java, Kotlin, data science, mobile computing, with a special love for Cyber Security<br />
 
 # 🌐 Socials 
 [![grav](https://img.shields.io/badge/my%20Website-grey?style=for-the-badge&logo=grav)](https://www.luis-marques.com/)
